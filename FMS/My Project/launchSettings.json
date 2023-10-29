@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FMS": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\VB.NET FILES\\FMS\\bin\\Debug"
+    }
+  }
+}

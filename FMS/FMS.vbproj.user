@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BSIS A20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BSIT A21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SCHEDULE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mainpage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BSCS A2022.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BSCS B2022.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BSIS A22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
